@@ -1,0 +1,13 @@
+.search-header:before {
+	background:rgba(10,10,10,0.6); //-image: url("forum-menu-quicksearch.gif");
+}
+
+.search-header a.button {
+	background-image: url("gz_adv_search.gif");
+}
+
+.search-header button.search-icon {
+	background-image: url("gz_search.gif");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
